@@ -1,4 +1,6 @@
 # Retail Sales Performance Tracker
+**Author:** [Thomas Kirvin]
+# Retail Sales Performance Tracker
 
 ![Dashboard](dashboard_screenshot.png)
 
